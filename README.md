@@ -1,5 +1,5 @@
 # R-Inferencna-statistika
-01 Binomicke rozdelenie
+[01 Binomicke rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/01-Binomicke-rozdelenie.R)
 - Príklad 1.1 (Výpočet očakávaných početností za predpokladu binomického modelu)
 - Príklad 1.2 (Overdispersion a underdispersion v binomickom modeli)
 - Príklad 1.3 (Graf pravdepodobnostnej a distribučnej funkcie binomického modelu)
@@ -7,7 +7,7 @@
 - Príklad 1.5 (Stredná hodnota a rozptyl náhodnej veličiny z binomického modelu)
 - Príklad 1.6 (Simulačná štúdia pre binomický model)
 
-02 Poissonovo rozdelenie
+[02 Poissonovo rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/02-Poissonovo-rozdelenie.R)
 - Príklad 2.1 (Výpočet očakávaných početností za predpokladu Poissonovho modelu I)
 - Príklad 2.2 (Overdispersion a underdispersion v Poissonovom modeli I)
 - Príklad 2.3 (Graf pravdepodobnostnej a distribučnej funkcie Poissonovho modelu)
@@ -17,7 +17,7 @@
 - Príklad 2.7 (Výpočet očakávaných početností za predpokladu Poissonovho modelu II)
 - Príklad 2.8 (Overdispersion a underdispersion v Poissonovom modeli II)
 
-03 Negatívne binomické rozdelenie
+[03 Negatívne binomické rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/03-Negativne-binomicke-rozdelenie.R)
 Príklad 3.1 (Pravdepodobnostná funkcia negatívne binomického modelu)
 Príklad 3.2 (Výpočet pravdepodobností na základe negatívne binomického modelu I)
 Príklad 3.3 (Výpočet očakávaných početností za predpokladu negatívne binomického modelu)
