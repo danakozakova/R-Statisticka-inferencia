@@ -27,7 +27,7 @@
 - Príklad 3.7 (Stredná hodnota a rozptyl náhodnej veličiny z negatívne binomického modelu)
 - Príklad 3.8 (Simulačná štúdia pre negatívny binomický model a Poissonov model)
 
-[04 ZIP rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/04-ZIP_rozdelenie.html)
+[04 ZIP rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/04-ZIP_rozdelenie.R)
 - 4.1 Úloha: Pravdepodobnostná funkcia ZIP modelu
 - 4.2 Úloha: Porovnanie očakávaných početností za predpokladu Poisson a ZIP modelu
 - 4.3 Úloha: Overdisperzia a underdisperzia v ZIP modeli
