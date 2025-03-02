@@ -44,13 +44,13 @@
 - Úloha 5.5 (Výpočet pravdepodobností na základe negatívne binomického modelu II)
 - Úloha 5.6 (Aproximácia hypergeometrického modelu binomickým – stanovenie maximálneho rozsahu)
 
-06 Multihypergeometrické rozdelenie
+[06 Multihypergeometrické rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/06-Multigeometricke-rozdelenie.R)
 - Úloha 6.1 Pravdepodobnostná funkcia multihypergeometrického modelu
 - Úloha 6.2 Výpočet pravdepodobností na základe multihypergeometrického modelu
 - Úloha 6.3 Pravdepodobnostná funkcia multihypergeometrického modelu
 - Úloha 6.4 Multihypergeometrický model
 
-07 Normálne rozdelenie
+[07 Normálne rozdelenie]([url](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/07-Normalne-rozdelenie.R))
 - Úloha 7.1 Hustota normálneho modelu
 - Úloha 7.2 Základné číselné charakteristiky spojitého znaku
 - Úloha 7.3 Vizualizácia dát z normálneho rozdelenia
@@ -59,16 +59,16 @@
 - Úloha 7.6 Graf funkcie hustoty a distrubučnej funkcie normálneho modelu
 - Úloha 7.7 Simulačná štúdia
 
-08 Dvojrozmerné normálne rozdelenie
+[08 Dvojrozmerné normálne rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/08-Dvojrozmerne-normalne-rozdelenie.R)
 - Úloha 8.1 Hustota dvojrozmerného normálneho modelu
 - Úloha 8.2 Základné číselné charakteristiky dvojice spojitých znakov
 - Úloha 8.3 Test dvojrozmernej normality
 - Úloha 8.4 Vizualizácia dát z dvojrozmerného normálneho modelu
 - Úloha 8.5 Simulácia dát z dvojrozmerného normálneho rozdelenia
 
-O9 Princíp vierohodnosti - binomický model
+[O9 Princíp vierohodnosti - binomický model](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/09-vierohodnost-binomicky-model.R)
 - Úloha 9.1 Maximálne vierohodný odhad parametra p binomického modelu
 - Úloha 9.2 (Kvadratická aproximácia v binomickom modeli)
 
-10 Princíp vierohodnosti - normálny model
+[10 Princíp vierohodnosti - normálny model](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/10-vierohodnost-normalny-model.R)
 - Úloha 10.1 Maximálne vierohodné odhady parametrov mi a sigma^2 v normálnom modeli
