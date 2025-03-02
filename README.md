@@ -36,7 +36,7 @@
 - Úloha 4.6: Stredná hodnota a rozptyl náhodnej veličiny zo ZIP modelu
 - Úloha 4.7: Simulačná štúdia pre ZIP model a Poissonov model
 
-05 Hypergeometrické rozdelenie
+[05 Hypergeometrické rozdelenie](https://github.com/danakozakova/R-Statisticka-inferencia/blob/main/05-Hypergeometricke-rozdelenie.R)
 - Úloha 5.1 : Pravdepodobnostná funkcia hypergeometrického modelu
 - Úloha 5.2 (Výpočet pravdepodobností na základe hypergeometrického modelu I)
 - Úloha 5.3 (Odhad parametra p hypergeometrického modelu)
