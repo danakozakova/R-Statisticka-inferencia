@@ -6,7 +6,7 @@
 ## 2. Dosadením do vzorcov pre MLE odhad stanovte presnú hodnotu maximálne vierohodného odhadu parametrov mu a sigma2.
 ### nacitanie hodnot a odstranenie NA hodnot z vektora
 #-------------------------------------------------------------------
-data <- read.delim("STUDY/MUNI/PREDMETY/St 18.00 Statisticka interferencia/cvicenia/cvicenie 10/clavicle.txt", sep = "\t") # nacitanie dat
+data <- read.delim("clavicle.txt", sep = "\t") # nacitanie dat
 cla_L <- data[data$sex == 'm', 4] # vyber dlzok lavej klucnej kosti muzov
 data <- na.omit(cla_L) # odstranenie NA hodnot
 
